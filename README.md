@@ -1,8 +1,7 @@
-# AOS ASSIGNMENT - 4
+# PEER TO PEER GROUP BASED FILE SHARING SYSTEM
 
-## Distributed File System
 
-- The Distributed File Sharing System is a network-based application that allows peers to share and retrieve files across multiple peers over a network. It utilizes a socket programming and client-server architecture and employs secure communication protocols for data transfer.
+- Peer to Peer Group Based File Sharing System is a network-based application that allows peers to share and retrieve files across multiple peers over a network. It utilizes a socket programming and client-server architecture and employs secure communication protocols for data transfer.
 
 ## How to Run
 
